@@ -1,0 +1,2 @@
+# ----The-core-Firebase-JS-SDK-is-always-required-and-must-be-listed-first----script-src-__-fireb
+&lt;!-- The core Firebase JS SDK is always required and must be listed first --> &lt;script src="/__/firebase/7.19.0/firebase-app.js">&lt;/script>  &lt;!-- TODO: Add SDKs for Firebase products that you want to use      https://firebase.google.com/docs/web/setup#available-libraries --> &lt;script src="/__/firebase/7.19.0/firebase-analytics.js">&lt;/script>  &lt;!-- Initialize Firebase --> &lt;script src="/__/firebase/init.js">&lt;/script>
